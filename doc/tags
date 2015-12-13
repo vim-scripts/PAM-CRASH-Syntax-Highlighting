@@ -1,0 +1,3 @@
+pam	pamcrash.txt	/*pam*
+pamcrash	pamcrash.txt	/*pamcrash*
+pamcrash.txt	pamcrash.txt	/*pamcrash.txt*

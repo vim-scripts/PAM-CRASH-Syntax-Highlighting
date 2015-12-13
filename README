@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5283
+
+Features:
+   * VPS 2014 Syntax Highlighting
+   * Supports light and dark background
+   * Macros for Card Templates (type :help pam for a complete list)
+   * Interactive hints for fixed format in Status Bar
+   * Omni-Completion for Parameters (look for "(menu)" in Status Bar, then pless Tab in a command mode ;-)
+   * Tags Support for Entity IDs (press F12 to create/update the tagfile, then look for "(tag)" in Status Bar)
+   * Omni-Completion for Entity Selection (when tagfile exists (F12))
+   * Basic Folding (not recomended to use on big decks)
